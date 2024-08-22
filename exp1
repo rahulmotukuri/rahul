@@ -1,0 +1,6 @@
+class exp{
+	public static void main(string[],args){
+		system.out.println("Example")
+	}
+}
+
